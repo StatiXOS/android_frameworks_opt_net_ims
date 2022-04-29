@@ -34,6 +34,24 @@
       "parentUuid": "454c0451_0b494f8c",
       "revId": "65d32e8a05c6d166e357cbc5bdacef28ba588d7b",
       "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "df032e37_120a319c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000071
+      },
+      "writtenOn": "2022-04-29T12:14:56Z",
+      "side": 1,
+      "message": "https://github.com/Descendant-Devices/device_xiaomi_begonia/commit/e4641ea211c0e48a3d228723c8433c5c2b47a8dd\n\nAlso you need more patches for A10 IMS if thats what you are looking for",
+      "parentUuid": "24643ae3_bcd7adb4",
+      "revId": "65d32e8a05c6d166e357cbc5bdacef28ba588d7b",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
     }
   ]
 }
