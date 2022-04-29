@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "454c0451_0b494f8c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000071
+      },
+      "writtenOn": "2022-04-29T12:05:03Z",
+      "side": 1,
+      "message": "This isn\u0027t required for A11 IMS",
+      "revId": "65d32e8a05c6d166e357cbc5bdacef28ba588d7b",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    }
+  ]
+}
